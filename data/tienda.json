@@ -1,0 +1,26 @@
+[
+  {
+    "imgUrl": "../img/tienda/caketopper.jpg",
+    "titulo": "Obleas comestibles impresas",
+    "descripcion": "",
+    "precio": "40"
+  },
+  {
+    "imgUrl": "../img/tienda/caketopper.jpg",
+    "titulo": "Sprinkles",
+    "descripcion": "Frasco de 250grs",
+    "precio": "100"
+  },
+  {
+    "imgUrl": "../img/tienda/caketopper.jpg",
+    "titulo": "Cake Topper",
+    "descripcion": "",
+    "precio": "80"
+  },
+  {
+    "imgUrl": "../img/tienda/caketopper.jpg",
+    "titulo": "Recetas",
+    "descripcion": "",
+    "precio": "200"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "imgUrl": "../img/paquetes/mesa-postres.jpg",
+    "titulo": "Mesa de postres",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil in, voluptatum natus magni beatae facere odio quia possimus quis amet repellendus! Recusandae nostrum dicta animi explicabo tempore, fuga omnis."
+  },
+  {
+    "imgUrl": "../img/paquetes/version-mini.png",
+    "titulo": "Mesa de postres versiones mini",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil in, voluptatum natus magni beatae facere odio quia possimus quis amet repellendus! Recusandae nostrum dicta animi explicabo tempore, fuga omnis."
+  },
+  {
+    "imgUrl": "../img/paquetes/cumpleañero.jpg",
+    "titulo": "Paquete cumpleañero",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil in, voluptatum natus magni beatae facere odio quia possimus quis amet repellendus! Recusandae nostrum dicta animi explicabo tempore, fuga omnis."
+  },
+  {
+    "imgUrl": "../img/eventos/Paquete cumpleañero_.jpg",
+    "titulo": "Pastel y flores",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil in, voluptatum natus magni beatae facere odio quia possimus quis amet repellendus! Recusandae nostrum dicta animi explicabo tempore, fuga omnis."
+  },
+  {
+    "imgUrl": "../img/eventos/Paquete cumpleañero_.jpg",
+    "titulo": "Pastel y globos",
+    "descripcion": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos nihil in, voluptatum natus magni beatae facere odio quia possimus quis amet repellendus! Recusandae nostrum dicta animi explicabo tempore, fuga omnis."
+  }
+]
